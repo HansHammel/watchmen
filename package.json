@@ -69,7 +69,7 @@
     "shortid": "^2.2.6",
     "stream-spigot": "^3.0.5",
     "timestream-aggregates": "^0.1.7",
-    "validator": "^6.x.x",
+    "validator": "^13.15.22",
     "watchmen-ping-http-contains": "^0.0.2",
     "watchmen-ping-http-head": "^0.2.0",
     "watchmen-plugin-aws-ses": "0.0.1",
